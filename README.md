@@ -46,7 +46,7 @@ Alternatively you can modify source code and rebuild the binaries on your own.
 
 If you wish to make a direct donation you're welcome to use either theese addresses:
 
-* ETH 0x9E431042fAA3224837e9BEDEcc5F4858cf0390B9
+* ETH 0xbC426A6E8AA1FE01271304d0470d80e092F88724
 * ETC 0x6e4Aa5064ced1c0e9E20A517B9d7A7dDe32A0dcf
 
 ## Requirements
