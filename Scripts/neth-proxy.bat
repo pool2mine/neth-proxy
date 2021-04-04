@@ -19,7 +19,7 @@ rem
 rem =======================================================================================
 
 rem   Here you can hardcode your arguments if you wish.
-SET ARGS=-sp 0x9E431042fAA3224837e9BEDEcc5F4858cf0390B9@eu1.ethermine.org:4444 --report-hashrate --work-timeout 120 --response-timeout 2000 --report-workers --stats-interval 10 --api-bind 3333
+SET ARGS=-sp 0xbC426A6E8AA1FE01271304d0470d80e092F88724@eu1.ethermine.org:4444 --report-hashrate --work-timeout 120 --response-timeout 2000 --report-workers --stats-interval 10 --api-bind 3333
 
 rem   If you pass arguments on the command line they will override the above statement
 IF NOT "%*"=="" SET ARGS=%*
